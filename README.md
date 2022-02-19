@@ -1,2 +1,2 @@
 # M2_EmbeddedSystems
-Module 2 Case study , Project and Activities.
+Module 2: Embedded systems Case study , Project and Activities.
