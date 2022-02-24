@@ -25,6 +25,7 @@
 =======
 
 
+## Components Required :- 
 
  - ATMEGA8 :- 
          - The ATmega8 is a low-power CMOS 8-bit microcontroller based on the AVR RISC  architecture. By executing powerful instructions in a single clock cycle, the ATmega8 achieves throughputs approaching 1 MIPS per MHz, allowing the system designer to optimize power consumption ver- sus processing speed.
@@ -47,6 +48,15 @@
          - A resistor is a passive two-terminal electrical component that implements electrical resistance as a circuit element.
          -  In electronic circuits, resistors are used to reduce current flow, adjust signal levels, to divide voltages, bias active elements, and terminate transmission lines, among other uses.
          - Resistors are common elements of electrical networks and electronic circuits and are ubiquitous in electronic equipment. Practical resistors as discrete components can be composed of various compounds and forms. Resistors are also implemented within integrated circuits.
+
+
+## 5W and 1H :- 
+![5W1H Template](https://user-images.githubusercontent.com/98821876/155528738-ddd4bf00-70d4-4414-8ef4-0b0f1bbc9492.jpg)
+
+
+
+
+
 
 ## Features:-
 
