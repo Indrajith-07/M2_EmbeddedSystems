@@ -61,12 +61,67 @@
  - Shows clear indication of water levels in the overhead tank.
  
 
-## Applications :- 
 
- - Automatic Water level Controller can be used in Hotels, Factories, Homes Apartments, Commercial Complexes, Drainage, etc.
- - It can be fixed for single phase motor, Single Phase Submersibles, Three Phase motors and open well, Bore well .
+
+
+ 1. Power Saver:
+    Living in an age where we need to be more conscious of the energy that we use, a water level controller is ideal at saving power. Normally, regulating water levels can consume electricity and wastewater. However, with automatic controllers, the electricity usage is limited as well as less water needed to regulate supply.
+
+ 2. Money Saver:
+    A water level controller helps save money by limiting the waste of water and electricity. These devices accurately regulate how much energy is used to protect against any unnecessary water/electricity usage. Over time, the money saved is quite substantial.
+
+ 3. Automatic:
+    Another notable advantage with these devices is that they regulate on their own. Eliminating manual operations with a timer switch, the frustrations of manual monitoring water tanks are minimized. Water levels are maintained at the appropriate levels thanks to the automatic operations of these devices.
+
+ 4. Water Maximization:
+    On average, water pumps are used more during midday. A water level controller can maximize the water usage provided during midday while automatically lessening the water usage at night.  This results in an appropriate level of water at all times being maintained, while providing you with the maximum use of your water at the appropriate times.
+
+ 5. Reliable Electronic Design:
+    Addressing the durability problems found in earlier designs, the solid-state electronics in the newer models help to eliminate them. Not only do they help to eliminate the durability issues, but they also create considerable savings of the life span of the unit with an advanced modular design. In order to minimize problem areas of these designs, the only moving parts are the relays. These relays are easily replaced and tested by any skilled operator or electrician while being an inexpensive part.
+
+ 6. New Control Minimize Fouling & Deterioration :
+    Proving to be less costly, over time, than the original float design for the ‘toilet tank’. The solid-state electronics are designed to minimize volt usage (less than 1 volt). This directly minimizes the mineral fouling, plating, rusting, and deterioration of probes, proving to be safer and more efficient. These factors extend the life span of the controllers significantly, which saves money and energy.
+
+ 7. Easy Installation with lcd Monitoring:
+   These new solid-state electronics and integrated electronics offer superior performance, hassle-free installation, and lower cost to operate over time when compared to the lifespan of the original design. For continuous monitoring, the integrated firmware and digital dry-contact circuitry easily and quickly connect to the automation systems of a building. Each function of the integrated electronics and relays use LED lights to offer operators the ability to visually scan them in order to verify proper 
+
+
+ 1. Water level controls need to be replaced every 3 years.
+ 2. The rust, foul and deteriorate
+ 3. Electronics are usually built separately
+
+
+
+ 1. Easy installation
+ 2. Minimal maintenance
+ 3. Sends an alert to let you know water is too high or too low
+ 4. Low alarms
+ 5. Compact design
+ 6. Save money by using less electricity and water
+ 7. Can help avoid seepage of roofs and walls due to tanks overflowing
+ 
+
+
+ 
+## Applications :- 
+ - Hotels
+ - Home apartments
+ - Commercial complexes
+ - Factories
+ - Where cooling towers are used
+ - Residential and commercial swimming pools
+ - Anywhere water levels need to be controlled
+ - In vehicles as a fuel level indicator
+ - In huge containers as a liquid level indicator
+ - Single phase motor
+ - Single phase submersibles
+ - Three phase motors
+ - Open wells
+ - Bore wells
+ - Sump Pumps
+ - Used to start and stop water pumps 
+ - Water level indicator for water tank
  - Automatic water level controller will automatically START the pump set as soon as the water level falls below the predetermined level (usually 1/2 tank) and shall SWITCH OFF    the pump set as soon as tank is full.
- - Fuel level indicator in vehicles.
  - Liquid level indicator in the huge containers in the companies.
        
 
