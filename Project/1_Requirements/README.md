@@ -54,6 +54,8 @@
 ![5W1H Template](https://user-images.githubusercontent.com/98821876/155528738-ddd4bf00-70d4-4414-8ef4-0b0f1bbc9492.jpg)
 
 
+## SWOT Analysis :- 
+ ![swot](https://user-images.githubusercontent.com/98821876/155536695-7c6db3e8-2682-4617-8d15-96153fd2c668.png)
 
 
 
@@ -117,6 +119,7 @@
 
  
 ## Applications :- 
+
  - Hotels
  - Home apartments
  - Commercial complexes
