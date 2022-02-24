@@ -72,7 +72,7 @@
  
 
 
-
+## Advantages :- 
 
  1. Power Saver:
     Living in an age where we need to be more conscious of the energy that we use, a water level controller is ideal at saving power. Normally, regulating water levels can consume electricity and wastewater. However, with automatic controllers, the electricity usage is limited as well as less water needed to regulate supply.
@@ -96,11 +96,14 @@
    These new solid-state electronics and integrated electronics offer superior performance, hassle-free installation, and lower cost to operate over time when compared to the lifespan of the original design. For continuous monitoring, the integrated firmware and digital dry-contact circuitry easily and quickly connect to the automation systems of a building. Each function of the integrated electronics and relays use LED lights to offer operators the ability to visually scan them in order to verify proper 
 
 
+## Disadvantages :- 
+
  1. Water level controls need to be replaced every 3 years.
  2. The rust, foul and deteriorate
  3. Electronics are usually built separately
 
 
+## Benefits :- 
 
  1. Easy installation
  2. Minimal maintenance
