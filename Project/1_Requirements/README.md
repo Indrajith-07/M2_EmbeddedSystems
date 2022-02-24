@@ -49,6 +49,15 @@
          -  In electronic circuits, resistors are used to reduce current flow, adjust signal levels, to divide voltages, bias active elements, and terminate transmission lines, among other uses.
          - Resistors are common elements of electrical networks and electronic circuits and are ubiquitous in electronic equipment. Practical resistors as discrete components can be composed of various compounds and forms. Resistors are also implemented within integrated circuits.
 
+
+## 5W and 1H :- 
+![5W1H Template](https://user-images.githubusercontent.com/98821876/155528738-ddd4bf00-70d4-4414-8ef4-0b0f1bbc9492.jpg)
+
+
+
+
+
+
 ## Features:-
 
  - Easy installation.
