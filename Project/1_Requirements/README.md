@@ -15,7 +15,15 @@
 >>>>>>> 6327fc3a21f541fb08585d5efbdaa47dc35a7d6a
 
 
-
+ - Easy installation.
+ - Low maintenance.
+ - Compact elegant design.
+ - The Automatic water level controller ensures no overflows or dry running of pump there by saves electricity and water.
+ - Avoid seepage of roofs and walls due to overflowing tanks.
+ - Fully automatic, saves man power.
+ - Consume very little energy, ideal for continuous operation.
+ - Automatic water level controller provides you the flexibility to decide for yourself the water levels for operations of pump set.
+ - Shows clear indication of water levels in the overhead tank.
  
 
 
