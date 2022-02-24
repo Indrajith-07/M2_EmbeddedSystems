@@ -26,6 +26,7 @@
 
 
 ## Features:-
+
  - Easy installation.
  - Low maintenance.
  - Compact elegant design.
@@ -37,10 +38,11 @@
  - Shows clear indication of water levels in the overhead tank.
  
 
+## Applications :- 
 
  - Automatic Water level Controller can be used in Hotels, Factories, Homes Apartments, Commercial Complexes, Drainage, etc.
  - It can be fixed for single phase motor, Single Phase Submersibles, Three Phase motors and open well, Bore well .
- - Automatic water level controller will automatically START the pump set as soon as the water level falls below the predetermined level (usually 1/2 tank) and shall SWITCH OFF the pump set as soon as tank is full.
+ - Automatic water level controller will automatically START the pump set as soon as the water level falls below the predetermined level (usually 1/2 tank) and shall SWITCH OFF    the pump set as soon as tank is full.
  - Fuel level indicator in vehicles.
  - Liquid level indicator in the huge containers in the companies.
        
