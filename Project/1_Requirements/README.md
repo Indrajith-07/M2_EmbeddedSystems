@@ -25,6 +25,7 @@
 =======
 
 
+## Components Required :- 
 
  - ATMEGA8 :- 
          - The ATmega8 is a low-power CMOS 8-bit microcontroller based on the AVR RISC  architecture. By executing powerful instructions in a single clock cycle, the ATmega8 achieves throughputs approaching 1 MIPS per MHz, allowing the system designer to optimize power consumption ver- sus processing speed.
