@@ -7,5 +7,7 @@
  - In this project we show the water level indicator using eight transistors which conducts as level rises, a buzzer is also added which will automatically start as the water level becomes full, auto buzzer start with the help of microcontroller. With the help of this project we not only show the level of water on seven segment display but also indicate the water full condition using a buzzer.
 
 Block Diagram :- 
+      
+       https://github.com/Indrajith-07/M2_EmbeddedSystems/blob/main/Project/1_Requirements/Block_D_Waterlevel.jpg
          
          
