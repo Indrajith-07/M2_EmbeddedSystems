@@ -14,6 +14,5 @@ Block Diagram :-
 
 
 
-
-          ![Blockdiagram](https://user-images.githubusercontent.com/98821876/155509288-dc16477d-4417-492b-98b4-e46ac2826115.png)
+         ![Blockdiagram](https://user-images.githubusercontent.com/98821876/155509288-dc16477d-4417-492b-98b4-e46ac2826115.png)
 
