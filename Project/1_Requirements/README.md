@@ -25,6 +25,29 @@
 =======
 
 
+
+ - ATMEGA8 :- 
+         - The ATmega8 is a low-power CMOS 8-bit microcontroller based on the AVR RISC  architecture. By executing powerful instructions in a single clock cycle, the ATmega8 achieves throughputs approaching 1 MIPS per MHz, allowing the system designer to optimize power consumption ver- sus processing speed.
+         - There are 3-Internal Timers are accessible, 8 bit-2, 16 bit-1, presenting numerous operating modes & supporting internal/external clocking. Serial Peripheral Interface (SPI): ATmega8 microcontroller holds three integrated communication devices.
+ - Probes(sensors):-
+         - A probe is effectively an elaborate switch, designed to trigger on contact with a component surface, providing accurate, repeatable geometric data. Obtaining and interrogating this data throughout the manufacturing process can help to ensure components remain within conformance limits.
+ - Buzzer :-
+         - A buzzer or beeper is an audio signaling device, which may be mechanical, electromechanical, or piezoelectric.
+         - An arduino buzzer is also called a piezo buzzer. It is basically a tiny speaker that you can connect directly to an Arduino. You can make it sound a tone at a frequency you set. The buzzer produces sound based on reverse of the piezoelectric effect.
+ - Seven Segment Display :- 
+         - A seven-segment display is a form of electronic display device for displaying decimal numerals that is an alternative to the more complex dot matrix displays. Seven-segment displays are widely used in digital clocks, electronic meters, basic calculators, and other electronic devices that display numerical information.
+         - he 7-segment display, also written as “seven segment display”, consists of seven LEDs (hence its name) arranged in a rectangular fashion as shown. Each of the seven LEDs is called a segment because when illuminated the segment forms part of a numerical digit (both Decimal and Hex) to be displayed.
+ - transistor :-
+         - A transistor is a device that regulates current or voltage flow and acts as a switch or gate for electronic signals. 
+         - Transistors consist of three layers of a semiconductor material, each capable of carrying a current. ... A transistor regulates current or voltage flow and acts as a switch or gate for electronic signals.
+         - transistor, semiconductor device for amplifying, controlling, and generating electrical signals.
+         - we think that BC547 is a normal NPN (Negative-Positive-Negative) junction transistor. 
+          
+ - Resistors :-
+         - A resistor is a passive two-terminal electrical component that implements electrical resistance as a circuit element.
+         -  In electronic circuits, resistors are used to reduce current flow, adjust signal levels, to divide voltages, bias active elements, and terminate transmission lines, among other uses.
+         - Resistors are common elements of electrical networks and electronic circuits and are ubiquitous in electronic equipment. Practical resistors as discrete components can be composed of various compounds and forms. Resistors are also implemented within integrated circuits.
+
 ## Features:-
 
  - Easy installation.
