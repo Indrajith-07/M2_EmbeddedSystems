@@ -15,5 +15,6 @@ Block Diagram :-
 
 
 
-      ![Block_D_Waterlevel](https://user-images.githubusercontent.com/98821876/155507411-72fe2d78-df5e-4460-b1e1-c9b8b0001ce3.jpg)
+    
 
+                ![Blockdiagram](https://user-images.githubusercontent.com/98821876/155508788-b2b9c1a5-6f6f-4961-bfaf-56867b0d7db6.png)
