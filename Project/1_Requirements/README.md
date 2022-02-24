@@ -24,12 +24,16 @@
 ![Blockdiagram](https://user-images.githubusercontent.com/98821876/155511413-d8af4434-e87a-4393-be53-94ac591fc427.png)
 =======
 
+
+## High Level Requirement:-
+
  - ATMEGA8
  - Probes
  - Buzzer
  - LCD
 
 
+ ## Low Level Requirements :- 
  
  - transistors
  - resistrors
