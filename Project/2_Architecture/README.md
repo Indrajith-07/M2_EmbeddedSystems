@@ -13,11 +13,11 @@
 
 
 ## Structural Diagram :
-  ###  Class diagramm :
+  ###  1.Class diagramm :
   ![Class_atmega8_](https://user-images.githubusercontent.com/98821876/155734830-4e706466-9ccf-4e7f-a006-546292ececbb.png)
 
 
 ## Behaviour Diagram :
-  ###  Sequence diagram :
+  ###  1.Sequence diagram :
   ![Sequence_atmega8](https://user-images.githubusercontent.com/98821876/155734971-c9144c30-ff7b-4882-8cef-3f09cf17b615.png)
 
