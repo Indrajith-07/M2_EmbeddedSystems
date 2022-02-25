@@ -33,6 +33,7 @@
  - Probes
  - Buzzer
  - LCD
+ - Water
 
 
  ## Low Level Requirements :- 
