@@ -15,6 +15,9 @@
 ## Structural Diagram :
   ###  1.Class diagramm :
   ![Class_atmega8_](https://user-images.githubusercontent.com/98821876/155734830-4e706466-9ccf-4e7f-a006-546292ececbb.png)
+  
+  ###  2.Component diagram :
+  ![component_atmega8](https://user-images.githubusercontent.com/98821876/155738826-e3f67f1c-a105-4978-84c3-e2a5641638b4.png)
 
 
 ## Behaviour Diagram :
