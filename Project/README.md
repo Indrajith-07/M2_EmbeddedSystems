@@ -1,5 +1,7 @@
 # WATER LEVEL INDICATOR 
 
+## 1). Introduction , Requirements and Overview :- 
+
  - The Water Level Indicator employs a simple mechanism to detect and indicate the water level in  an overhead tank or any other water container.
  - The sensing is done by using a set of nine probes which are placed at nine different levels on the tank walls (with probe 9 to probe 1 placed in increasing order of height, common probe (i.e. a supply carrying probe) is placed at the base of the tank).
  - The level 8 represents the “tank full” condition while level 0 represents the “tank empty” condition.
@@ -153,4 +155,13 @@
  - Water level indicator for water tank
  - Automatic water level controller will automatically START the pump set as soon as the water level falls below the predetermined level (usually 1/2 tank) and shall SWITCH OFF    the pump set as soon as tank is full.
  - Liquid level indicator in the huge containers in the companies.
+ 
+ 
+ 
+ 
+ 
+ 
+# 2). Architecture :- 
+
+
        
