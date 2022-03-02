@@ -1,5 +1,7 @@
 # WATER LEVEL INDICATOR 
 
+## 1). Introduction , Requirements and Overview :- 
+
  - The Water Level Indicator employs a simple mechanism to detect and indicate the water level in  an overhead tank or any other water container.
  - The sensing is done by using a set of nine probes which are placed at nine different levels on the tank walls (with probe 9 to probe 1 placed in increasing order of height, common probe (i.e. a supply carrying probe) is placed at the base of the tank).
  - The level 8 represents the “tank full” condition while level 0 represents the “tank empty” condition.
@@ -31,6 +33,7 @@
  - Probes
  - Buzzer
  - LCD
+ - Water
 
 
  ## Low Level Requirements :- 
@@ -153,4 +156,39 @@
  - Water level indicator for water tank
  - Automatic water level controller will automatically START the pump set as soon as the water level falls below the predetermined level (usually 1/2 tank) and shall SWITCH OFF    the pump set as soon as tank is full.
  - Liquid level indicator in the huge containers in the companies.
-       
+ 
+ 
+ 
+ 
+ 
+ 
+# ARCHITECTURE
+
+
+## Block Diagram :- 
+      
+![Blockdiagram](https://user-images.githubusercontent.com/98821876/155734711-4200322a-4ec8-49e5-b528-4a742e61ce4b.png)
+
+
+
+## Flowchart :- 
+
+![flowchart_atmega8](https://user-images.githubusercontent.com/98821876/155734563-68d801e9-2b82-4173-8913-3f01866ff838.jpg)
+
+
+## Structural Diagram :
+
+  ###  1.Class diagramm :
+  
+  ![Class_atmega8_](https://user-images.githubusercontent.com/98821876/155734830-4e706466-9ccf-4e7f-a006-546292ececbb.png)
+  
+  ###  2.Component diagram :
+  
+  ![component_atmega8](https://user-images.githubusercontent.com/98821876/155738826-e3f67f1c-a105-4978-84c3-e2a5641638b4.png)
+
+
+## Behaviour Diagram :
+
+  ###  1.Sequence diagram :
+  
+  ![Sequence_atmega8](https://user-images.githubusercontent.com/98821876/155734971-c9144c30-ff7b-4882-8cef-3f09cf17b615.png)
