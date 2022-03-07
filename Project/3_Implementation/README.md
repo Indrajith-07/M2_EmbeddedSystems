@@ -73,7 +73,8 @@
     
  ## Circuit Diagram :
  
-![water_level_indicator_circuit](https://user-images.githubusercontent.com/98821876/157044201-2556f8bb-0863-4658-a6e9-5260bae6f736.png)
+![water_level_indicator_circuit](https://user-images.githubusercontent.com/98821876/157055385-86e49a74-1883-4893-87b6-aa280a6c8e48.png)
+
 
 
 
