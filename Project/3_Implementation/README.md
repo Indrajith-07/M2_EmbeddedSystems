@@ -65,7 +65,7 @@
 		}					
         } 
     }
-<<<<<<< HEAD
+
 
 
 
@@ -75,7 +75,7 @@
  
  ![water_level_indicator_circuit](https://user-images.githubusercontent.com/98821876/157038285-d29420cb-ce71-40a4-9dea-b397b213512b.png)
 
->>>>>>> b57e22f2ee8840c427e1e6cc2107214b4112c067
+
 
 
 
@@ -100,9 +100,9 @@
 
 	- The operation of this project is very simple and can be understood easily. In our project “water level indicator”   there are 3 main conditions:
 
-		- There is no water available in the source tank.
-		- Intermediate level i.e. either of 3rd to 7th level.
-		- There is ample amount of water available in the source tank.
+	 - There is no water available in the source tank.
+	 - Intermediate level i.e. either of 3rd to 7th level.
+	 - There is ample amount of water available in the source tank.
 
 
 CONDITION 1: Water not available
@@ -122,5 +122,5 @@ CONDITION 2: Intermediate levels
 CONDITION 3: Water full
 
 	- When the tank becomes full, the top level probe gets the conductive path through water and the corresponding transistor gets into conduction whose output given to microcontroller with this input microcontroller not only displays the level in seven segment display but also activates the continuous buzzer by which user can understand that tank is full and can switch off the motor and save water.
-=======
+
     
