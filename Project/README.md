@@ -1,7 +1,5 @@
 # WATER LEVEL INDICATOR 
 
-## 1). Introduction , Requirements and Overview :- 
-
  - The Water Level Indicator employs a simple mechanism to detect and indicate the water level in  an overhead tank or any other water container.
  - The sensing is done by using a set of nine probes which are placed at nine different levels on the tank walls (with probe 9 to probe 1 placed in increasing order of height, common probe (i.e. a supply carrying probe) is placed at the base of the tank).
  - The level 8 represents the “tank full” condition while level 0 represents the “tank empty” condition.
@@ -28,19 +26,45 @@
 
 
 ## High Level Requirement:-
+ 
+-----------------------------------------------------------------------------------------------
+| Req ID  |    Description         |
+|-------|--------------------------|
+|  HL_01    | if water level is 8 or Full   Display 8 And Buzzer     | 
+|-------|--------------------------|
+|  HL_02    | if water level is 7         Display 7 And Buzzer   |   
+|-------|--------------------------|
+|  HL_03    | if water level is 6         Display 6 And Buzzer    | 
+|-------|--------------------------|
+|  HL_04    | if water level is 5         Display 5 And Buzzer    |  
+|-------|--------------------------|
+|  HL_05    | if water level is 4         Display 4 And Buzzer     |  
+|-------|--------------------------|
+|  HL_06    | if water level is 3         Display 3 And Buzzer     |  
+|-------|--------------------------|
+|  HL_07    | if water level is 2         Display 2 And Buzzer     | 
+|-------|--------------------------|
+|  HL_08    | if water level is 1         Display 1 And Buzzer     | 
+|-------|--------------------------|
+|  HL_09    | if water level is 0         Display 0 And Buzzer     | 
 
- - ATMEGA8
- - Probes
- - Buzzer
- - LCD
- - Water
+ 
 
 
  ## Low Level Requirements :- 
  
- - transistors
- - resistrors
- - watertank 
+ -----------------------------------------------------------------------------------------------
+| Req ID  |    Description         |
+|-------|--------------------------|
+|  LL_01    | Detect water level at Full       | 
+|-------|--------------------------|
+|  LL_02    | Detect water level at intermediate levels            |   
+|-------|--------------------------|
+|  LL_03    | Detect water level at empty               | 
+|-------|--------------------------|
+
+
+
 
 ## Components Required :- 
 
@@ -156,12 +180,10 @@
  - Water level indicator for water tank
  - Automatic water level controller will automatically START the pump set as soon as the water level falls below the predetermined level (usually 1/2 tank) and shall SWITCH OFF    the pump set as soon as tank is full.
  - Liquid level indicator in the huge containers in the companies.
- 
- 
- 
- 
- 
- 
+       
+
+
+
 # ARCHITECTURE
 
 
@@ -177,18 +199,18 @@
 
 
 ## Structural Diagram :
-
   ###  1.Class diagramm :
-  
   ![Class_atmega8_](https://user-images.githubusercontent.com/98821876/155734830-4e706466-9ccf-4e7f-a006-546292ececbb.png)
   
   ###  2.Component diagram :
-  
   ![component_atmega8](https://user-images.githubusercontent.com/98821876/155738826-e3f67f1c-a105-4978-84c3-e2a5641638b4.png)
 
 
 ## Behaviour Diagram :
-
   ###  1.Sequence diagram :
-  
   ![Sequence_atmega8](https://user-images.githubusercontent.com/98821876/155734971-c9144c30-ff7b-4882-8cef-3f09cf17b615.png)
+  
+  ### 2.Circuit Diagram :
+  ![water_level_indicator_circuit](https://user-images.githubusercontent.com/98821876/157038644-71ac3264-6534-4f0c-b561-f57498f4069d.png)
+
+

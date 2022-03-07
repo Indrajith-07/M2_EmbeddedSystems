@@ -23,4 +23,8 @@
 ## Behaviour Diagram :
   ###  1.Sequence diagram :
   ![Sequence_atmega8](https://user-images.githubusercontent.com/98821876/155734971-c9144c30-ff7b-4882-8cef-3f09cf17b615.png)
+  
+  ### 2.Circuit Diagram :
+  ![water_level_indicator_circuit](https://user-images.githubusercontent.com/98821876/157038644-71ac3264-6534-4f0c-b561-f57498f4069d.png)
+
 
