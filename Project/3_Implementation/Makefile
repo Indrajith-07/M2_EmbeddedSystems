@@ -35,7 +35,7 @@ SRC +=
 
 # The headers files needed for building the application
 INCLUDE = -I. 
-INCLUDE += 
+INCLUDE = 
 
 # commands Section
 Burn : Build
