@@ -58,9 +58,9 @@
 |-------|--------------------------|
 |  LL_01    | Detect water level at Full       | 
 |-------|--------------------------|
-|  LL_02    | Detect water level at intermediate               |   
+|  LL_02    | Detect water level at intermediate levels            |   
 |-------|--------------------------|
-|  LL_03    | if water level is at empty               | 
+|  LL_03    | Detect water level at empty               | 
 |-------|--------------------------|
 
 
