@@ -8,11 +8,15 @@
             "type": "shell",
             "command": "make",
             "args": [
-               
+                
             ],
-           
+            "group": "build",
+            "presentation": {
+                // Reveal the output only if unrecognized errors occur.
+                "reveal": "silent"
+            },
             // Use the standard MS compiler pattern to detect errors, warnings and infos
-            "problemMatcher": "$gcc"
+            "problemMatcher": "$msCompile"
         }
     ]
 }
