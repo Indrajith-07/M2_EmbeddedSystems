@@ -60,5 +60,5 @@ int main(void)
 			PORTC = 0x00;
 			PORTD = seg[0];
 		}					
-    }
+    } 
 }
