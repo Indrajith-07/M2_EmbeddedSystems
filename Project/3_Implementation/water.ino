@@ -1,21 +1,16 @@
-# Implementation
+#define  F_CPU 8000000UL
+#include <avr/io.h>
+#include <util/delay.h>
 
-## Code :
-
-    #define  F_CPU 8000000UL
-    #include <avr/io.h>
-    #include <util/delay.h>
-    
-    int main(void)
+int main(void)
+{
+	DDRB = 0x00;	// PORTB pins as input
+	DDRD = 0xff;	// PORTD as output
+	DDRC = 0x01;		// Buzzer
+	unsigned char seg[10] = {0x3f,0x06,0x5b,0x4f,0x66,0x6d,0x7d,0x07,0x7f,0x67};
+    while(1)
     {
-      DDRB = 0x00;	// PORTB pins as input
-	  DDRD = 0xff;	// PORTD as output
-	  DDRC = 0x01;		// Buzzer
-	  unsigned char seg[10] = {0x3f,0x06,0x5b,0x4f,0x66,0x6d,0x7d,0x07,0x7f,0x67};
-	
-        while(1)
-        {
-            if((PINB & 0xff)==0x00)			// 8th probe, Tank full	
+        if((PINB & 0xff)==0x00)			// 8th probe, Tank full	
 		{
 			PORTC = 0x01;
 			PORTD = seg[8];
@@ -63,5 +58,5 @@
 			PORTC = 0x00;
 			PORTD = seg[0];
 		}					
-        } 
     }
+}

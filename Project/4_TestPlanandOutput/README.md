@@ -1,7 +1,4 @@
-# Test Plan and Output
-
-
-# Plan and Output
+# Test Plan and OutPut
 
 -----------------------------------------------------------------------------------------------
 | Test ID  |    Description                   | Expected output | Actual output | Type of test |
@@ -23,3 +20,4 @@
 |  H_08    | if water level is 1  |      Display 1 And Buzzer     |       |   Technical  |
 |-------|--------------------------|------------|-----------|-------|
 |  H_09    | if water level is 0  |      Display 1 And Buzzer     |       |   Technical  |
+=======
