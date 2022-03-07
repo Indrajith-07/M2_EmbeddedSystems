@@ -26,18 +26,45 @@
 
 
 ## High Level Requirement:-
+ 
+-----------------------------------------------------------------------------------------------
+| Req ID  |    Description         |
+|-------|--------------------------|
+|  HL_01    | if water level is 8 or Full   Display 8 And Buzzer     | 
+|-------|--------------------------|
+|  HL_02    | if water level is 7         Display 7 And Buzzer   |   
+|-------|--------------------------|
+|  HL_03    | if water level is 6         Display 6 And Buzzer    | 
+|-------|--------------------------|
+|  HL_04    | if water level is 5         Display 5 And Buzzer    |  
+|-------|--------------------------|
+|  HL_05    | if water level is 4         Display 4 And Buzzer     |  
+|-------|--------------------------|
+|  HL_06    | if water level is 3         Display 3 And Buzzer     |  
+|-------|--------------------------|
+|  HL_07    | if water level is 2         Display 2 And Buzzer     | 
+|-------|--------------------------|
+|  HL_08    | if water level is 1         Display 1 And Buzzer     | 
+|-------|--------------------------|
+|  HL_09    | if water level is 0         Display 0 And Buzzer     | 
 
- - ATMEGA8
- - Probes
- - Buzzer
- - LCD
+ 
 
 
  ## Low Level Requirements :- 
  
- - transistors
- - resistrors
- - watertank 
+ -----------------------------------------------------------------------------------------------
+| Req ID  |    Description         |
+|-------|--------------------------|
+|  LL_01    | Detect water level at Full       | 
+|-------|--------------------------|
+|  LL_02    | Detect water level at intermediate               |   
+|-------|--------------------------|
+|  LL_03    | if water level is at empty               | 
+|-------|--------------------------|
+
+
+
 
 ## Components Required :- 
 

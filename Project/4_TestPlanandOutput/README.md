@@ -19,5 +19,5 @@
 |-------|--------------------------|------------|-----------|-------|
 |  H_08    | if water level is 1  |      Display 1 And Buzzer     |       |   Technical  |
 |-------|--------------------------|------------|-----------|-------|
-|  H_09    | if water level is 0  |      Display 1 And Buzzer     |       |   Technical  |
+|  H_09    | if water level is 0  |      Display 0 And Buzzer     |       |   Technical  |
 =======
