@@ -1,5 +1,7 @@
 # WATER LEVEL INDICATOR 
 
+## 1.1 :- Overview
+
  - The Water Level Indicator employs a simple mechanism to detect and indicate the water level in  an overhead tank or any other water container.
  - The sensing is done by using a set of nine probes which are placed at nine different levels on the tank walls (with probe 9 to probe 1 placed in increasing order of height, common probe (i.e. a supply carrying probe) is placed at the base of the tank).
  - The level 8 represents the “tank full” condition while level 0 represents the “tank empty” condition.
@@ -20,12 +22,12 @@
 
 
 =======
-## Block Diagram :-
+## 1.2 :- Block Diagram
 ![Blockdiagram](https://user-images.githubusercontent.com/98821876/155511413-d8af4434-e87a-4393-be53-94ac591fc427.png)
 =======
 
 
-## High Level Requirement:-
+## 1.3 :- High Level Requirement
  
 -----------------------------------------------------------------------------------------------
 | Req ID  |    Description         |
@@ -51,7 +53,7 @@
  
 
 
- ## Low Level Requirements :- 
+ ## 1.4 :- Low Level Requirements 
  
  -----------------------------------------------------------------------------------------------
 | Req ID  |    Description         |
@@ -66,7 +68,7 @@
 
 
 
-## Components Required :- 
+## 1.5 :- Components Required 
 
  - ATMEGA8 :- 
          - The ATmega8 is a low-power CMOS 8-bit microcontroller based on the AVR RISC  architecture. By executing powerful instructions in a single clock cycle, the ATmega8 achieves throughputs approaching 1 MIPS per MHz, allowing the system designer to optimize power consumption ver- sus processing speed.
@@ -91,17 +93,17 @@
          - Resistors are common elements of electrical networks and electronic circuits and are ubiquitous in electronic equipment. Practical resistors as discrete components can be composed of various compounds and forms. Resistors are also implemented within integrated circuits.
 
 
-## 5W and 1H :- 
+## 1.6 :- 5W and 1H 
 ![5W1H Template](https://user-images.githubusercontent.com/98821876/155528738-ddd4bf00-70d4-4414-8ef4-0b0f1bbc9492.jpg)
 
 
-## SWOT Analysis :- 
+## 1.7 :- SWOT Analysis 
  ![swot](https://user-images.githubusercontent.com/98821876/155536695-7c6db3e8-2682-4617-8d15-96153fd2c668.png)
 
 
 
 
-## Features:-
+## 1.8 :- Features
 
  - Easy installation.
  - Low maintenance.
@@ -115,7 +117,7 @@
  
 
 
-## Advantages :- 
+## 1.9 :- Advantages 
 
  1. Power Saver:
     Living in an age where we need to be more conscious of the energy that we use, a water level controller is ideal at saving power. Normally, regulating water levels can consume electricity and wastewater. However, with automatic controllers, the electricity usage is limited as well as less water needed to regulate supply.
@@ -139,14 +141,14 @@
    These new solid-state electronics and integrated electronics offer superior performance, hassle-free installation, and lower cost to operate over time when compared to the lifespan of the original design. For continuous monitoring, the integrated firmware and digital dry-contact circuitry easily and quickly connect to the automation systems of a building. Each function of the integrated electronics and relays use LED lights to offer operators the ability to visually scan them in order to verify proper 
 
 
-## Disadvantages :- 
+## 1.10 :- Disadvantages 
 
  1. Water level controls need to be replaced every 3 years.
  2. The rust, foul and deteriorate
  3. Electronics are usually built separately
 
 
-## Benefits :- 
+## 1.11 :- Benefits 
 
  1. Easy installation
  2. Minimal maintenance
@@ -159,7 +161,7 @@
 
 
 
-## Applications :- 
+## 1.12 :- Applications  
 
  - Hotels
  - Home apartments
@@ -182,36 +184,6 @@
  - Liquid level indicator in the huge containers in the companies.
        
 
-
-
-# ARCHITECTURE
-
-
-## Block Diagram :- 
-      
-![Blockdiagram](https://user-images.githubusercontent.com/98821876/155734711-4200322a-4ec8-49e5-b528-4a742e61ce4b.png)
-
-
-
-## Flowchart :- 
-
-![flowchart_atmega8](https://user-images.githubusercontent.com/98821876/155734563-68d801e9-2b82-4173-8913-3f01866ff838.jpg)
-
-
-## Structural Diagram :
-  ###  1.Class diagramm :
-  ![Class_atmega8_](https://user-images.githubusercontent.com/98821876/155734830-4e706466-9ccf-4e7f-a006-546292ececbb.png)
-  
-  ###  2.Component diagram :
-  ![component_atmega8](https://user-images.githubusercontent.com/98821876/155738826-e3f67f1c-a105-4978-84c3-e2a5641638b4.png)
-
-
-## Behaviour Diagram :
-  ###  1.Sequence diagram :
-  ![Sequence_atmega8](https://user-images.githubusercontent.com/98821876/155734971-c9144c30-ff7b-4882-8cef-3f09cf17b615.png)
-  
-  ### 2.Circuit Diagram :
- ![water_level_indicator_circuit](https://user-images.githubusercontent.com/98821876/157055617-16244898-5bac-4f74-9695-91ca646f17ca.png)
 
 
 
