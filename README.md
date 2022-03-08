@@ -3,7 +3,7 @@
 
 ## Codiga :- 
 
-         https://api.codiga.io/project/31654/score/svg
+   ![Code score](https://api.codiga.io/project/31654/score/svg)
          
          
-         https://api.codiga.io/project/31654/status/svg
+   ![Code grade](https://api.codiga.io/project/31654/status/svg)
