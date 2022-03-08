@@ -1,5 +1,47 @@
 # WATER LEVEL INDICATOR 
 
+### Indrajith Kesti
+### March-2022
+
+## Table of Contents :- 
+### 1) Introduction and Requirements
+       1.1 - Overview
+       1.2 - Block Diagram
+       1.3 - High Level Requirements 
+       1.4 - Low Level Requirements
+       1.5 - Components Required
+       1.6 - 5W and 1H
+       1.7 - SWOT Analysis
+       1.8 - Features
+       1.9 - Advantages
+       1.10 - Disadvantages
+       1.11 - Benefits
+       1.12 - Appliations
+       
+### 2) Architecture
+       2.1 - Block Diagram
+       2.2 - Flowchart
+       2.3 - Structural Diagrams
+          2.3.1 - Class diagram
+	  2.3.2 - Component diagram
+       2.4 - Behaviour Diagrams 
+          2.4.1 - Sequence diagram
+	  2.4.2 - Schematic diagram
+	  
+### 3) Implementation
+       3.1 - Code
+       3.2 - Schematic
+       3.3 - Design of schematics
+       3.4 - Working 
+       
+### 4) TestPlan and Output
+
+
+
+
+------------
+-----------
+
 ## [ 1 ] Introduction and Requirements
 
 ## 1.1 :- Overview
