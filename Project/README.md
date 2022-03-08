@@ -350,3 +350,28 @@ CONDITION 3: Water full
    - When the tank becomes full, the top level probe gets the conductive path through water and the corresponding transistor gets into conduction whose output given to microcontroller with this input microcontroller not only displays the level in seven segment display but also activates the continuous buzzer by which user can understand that tank is full and can switch off the motor and save water.
 
     
+    
+ 
+ # 4 :- Test Plan and OutPut
+
+-----------------------------------------------------------------------------------------------
+| Test ID  |    Description                   | Expected output | Actual output | Type of test |
+|-------|--------------------------|------------|-----------|-------|
+|  H_01    | if water level is 8 or Full |     Display 8 And Buzzer     |        |   Technical  |
+|-------|--------------------------|------------|-----------|-------|
+|  H_02    | if water level is 7|      Display 7 And Buzzer   |       |   Technical  |
+|-------|--------------------------|------------|-----------|-------|
+|  H_03    | if water level is 6  |      Display 6 And Buzzer    |       |   Technical  |
+|-------|--------------------------|------------|-----------|-------|
+|  H_04    | if water level is 5 |      Display 5 And Buzzer    |        |   Technical  |
+|-------|--------------------------|------------|-----------|-------|
+|  H_05    | if water level is 4 |      Display 4 And Buzzer     |         |   Technical  |
+|-------|--------------------------|------------|-----------|-------|
+|  H_06    | if water level is 3 |      Display 3 And Buzzer     |        |   Technical  |
+|-------|--------------------------|------------|-----------|-------|
+|  H_07    | if water level is 2 |      Display 2 And Buzzer     |        |   Technical  |
+|-------|--------------------------|------------|-----------|-------|
+|  H_08    | if water level is 1  |      Display 1 And Buzzer     |       |   Technical  |
+|-------|--------------------------|------------|-----------|-------|
+|  H_09    | if water level is 0  |      Display 0 And Buzzer     |       |   Technical  |
+=======
