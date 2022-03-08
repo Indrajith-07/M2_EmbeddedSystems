@@ -1,6 +1,6 @@
 # Implementation
 
-## Code :
+## 3.1 :- Code 
 
     #define  F_CPU 8000000UL
     #include <avr/io.h>
@@ -71,7 +71,7 @@
 
 
     
- ## Circuit Diagram :
+ ## 3.2 :- Schematic diagram 
  
 ![water_level_indicator_circuit](https://user-images.githubusercontent.com/98821876/157055385-86e49a74-1883-4893-87b6-aa280a6c8e48.png)
 
@@ -88,17 +88,17 @@
 
 
 
-## Design of Water Level Indicator Project using AVR Microcontroller : 
+## 3.3 :- Design of Water Level Indicator Project using AVR Microcontroller 
 
    - A constant 5v power supply is given to the microcontroller and rest of the circuit from a battery.
    - The tank has 9 conductive type sensors  embedded into it and 8 wires of sensors out of 9 are connected to transistors and the 9th is connected to 5v+ supply.
-   - The use of transistor is it acts as inverter (i.e. in on state gives low voltage at output and in non conducting state gives high voltage at its output), all transistors outputs are connected to PORTB of microcontroller.
+   - The use of transistor is it acts as inverter (i.e. in on state gives low voltage at output and in non conducting state gives high voltage at its output), all transistors        outputs are connected to PORTB of microcontroller.
    - Seven segment display is connected to PORTD. It is connected in common cathode fashion.
    - The Output for the 7th level is not only shown on seven segment display but also indicated with a discontinuous buzzer sound.
    - Output for the 8th level (i.e. tank full condition) is not only shown in seven segment display but also indicated with a continuous buzzer sound.
 
 
-## Working of Water Level Indicator  : 
+## 3.4 :- Working of Water Level Indicator  
 
 
    - The operation of this project is very simple and can be understood easily. In our project “water level indicator”   there are 3 main conditions:
