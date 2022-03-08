@@ -90,12 +90,12 @@
 
 ## Design of Water Level Indicator Project using AVR Microcontroller : 
 
-  - A constant 5v power supply is given to the microcontroller and rest of the circuit from a battery.
-	- The tank has 9 conductive type sensors  embedded into it and 8 wires of sensors out of 9 are connected to transistors and the 9th is connected to 5v+ supply.
-	- The use of transistor is it acts as inverter (i.e. in on state gives low voltage at output and in non conducting state gives high voltage at its output), all transistors outputs are connected to PORTB of microcontroller.
-	Seven segment display is connected to PORTD. It is connected in common cathode fashion.
-	- The Output for the 7th level is not only shown on seven segment display but also indicated with a discontinuous buzzer sound.
-	- Output for the 8th level (i.e. tank full condition) is not only shown in seven segment display but also indicated with a continuous buzzer sound.
+   - A constant 5v power supply is given to the microcontroller and rest of the circuit from a battery.
+   - The tank has 9 conductive type sensors  embedded into it and 8 wires of sensors out of 9 are connected to transistors and the 9th is connected to 5v+ supply.
+   - The use of transistor is it acts as inverter (i.e. in on state gives low voltage at output and in non conducting state gives high voltage at its output), all transistors outputs are connected to PORTB of microcontroller.
+   - Seven segment display is connected to PORTD. It is connected in common cathode fashion.
+   - The Output for the 7th level is not only shown on seven segment display but also indicated with a discontinuous buzzer sound.
+   - Output for the 8th level (i.e. tank full condition) is not only shown in seven segment display but also indicated with a continuous buzzer sound.
 
 
 ## Working of Water Level Indicator  : 
@@ -112,15 +112,15 @@ CONDITION 1: Water not available
 
    - When the tank is empty there is no conductive path between any of the 8 indicating probes and the common probe     (which is connected to 5v+ supply) so the transistor base emitter region will not have sufficient biasing voltage hence it remains in cut off region and the output across its collector will be Vc approximately 4.2v.
  
-	- As in this case the microcontroller is used in the active low region (which means it considers 0-2 volts for HIGH and 3-5 volts for LOW) now the output of transistor which is 4.2v approximately will be considered as LOW by the microcontroller and hence the default value given by microcontroller to the seven segment display is 0 which indicates as the tank is empty.
+   - As in this case the microcontroller is used in the active low region (which means it considers 0-2 volts for HIGH and 3-5 volts for LOW) now the output of transistor which is 4.2v approximately will be considered as LOW by the microcontroller and hence the default value given by microcontroller to the seven segment display is 0 which indicates as the tank is empty.
 
 CONDITION 2: Intermediate levels
 
    - Now as the water starts filling in the tank a conductive path is established between the sensing probes and the common probe and the corresponding transistors get sufficient biasing at their base, they starts conducting and now the outputs will be Vce (i.e. 1.2v-1.8v) approximately which is given to microcontroller.
 
-	- Here the microcontroller is programmed as a priority encoder which detects the highest priority input and displays corresponding water level in the seven segment display.
+   - Here the microcontroller is programmed as a priority encoder which detects the highest priority input and displays corresponding water level in the seven segment display.
 
-	- In this project while the water level reaches the 7th level i.e. last but one level along with display in seven segment a discontinuous buzzer is activated which warns user that tank is going to be full soon.
+   - In this project while the water level reaches the 7th level i.e. last but one level along with display in seven segment a discontinuous buzzer is activated which warns user that tank is going to be full soon.
 
 CONDITION 3: Water full
 
