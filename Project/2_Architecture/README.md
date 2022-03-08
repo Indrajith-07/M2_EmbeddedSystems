@@ -25,7 +25,8 @@
   ![Sequence_atmega8](https://user-images.githubusercontent.com/98821876/155734971-c9144c30-ff7b-4882-8cef-3f09cf17b615.png)
   
   ### 2.Circuit Diagram :
-  ![water_level_indicator_circuit](https://user-images.githubusercontent.com/98821876/157044494-9cf75c51-4bc6-4819-bf84-741a9e262e38.png)
+  ![water_level_indicator_circuit](https://user-images.githubusercontent.com/98821876/157054962-89019cf0-4866-4aef-8994-98171df56ae2.png)
+
 
 
 
